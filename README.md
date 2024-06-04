@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/pruebaweb/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1696916616/IMG_4131_ebn4ka.jpg" alt="imagen perfil" width="200" height="200">
+<img src="https://res.cloudinary.com/pruebaweb/image/upload/v1717512484/Im%C3%A1genes%20de%20proyectos/avatar2_l8ngp0.png" alt="imagen perfil" width="200" height="200">
 </div>
 
 # ¡Hola! Soy Jocelyn C. 👋
