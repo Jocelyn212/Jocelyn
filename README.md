@@ -27,8 +27,8 @@
 ### Contáctame
 
 - 📧 Correo:  [jocelyn.cf@gmail.com](mailto:jocelyn.cf@gmail.com)
-- 💼 LinkedIn: [jocelyn](https://www.linkedin.com/in/jocelyn-castro-flores-1507b427)
-- 📄 Currículum: [Descargar mi Currículum](https://enlace-a-tu-cv.com/tu-cv.pdf)
+- 💼 LinkedIn: [jocelyn](www.linkedin.com/in/jocelyn-castro-flores)
+- 📄 Currículum: [Descargar mi Currículum](https://drive.google.com/file/d/1d29P9Q9G6v1_ZtjAYwENJIovt5mL078I/view?usp=share_link)
 
 
 
